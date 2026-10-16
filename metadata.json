@@ -1,0 +1,6 @@
+{
+  "name": "LIBAAH | Women's Comfort & Modest Essentials",
+  "description": "Luxury D2C women's comfort essentials, seamless intimates, modest apparel, and Luna AI fit advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
